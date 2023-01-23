@@ -15,10 +15,10 @@ Excel
 Python
 
 # Task 1: Pre-processing the data
-# Subtask 1: Removing duplicate rows:
-# Subtask2: Remove irrelevant values from each column if any:
-# Subtask 3: Export the cleaned dataset as a .csv file and prepare the data using excel:
-# Subtask 4: Encoding data into suitable format
+## Subtask 1: Removing duplicate rows:
+## Subtask2: Remove irrelevant values from each column if any:
+## Subtask 3: Export the cleaned dataset as a .csv file and prepare the data using excel:
+## Subtask 4: Encoding data into suitable format
 
 # Understand the following requirements and query the dataset for displaying the required solution:
 
